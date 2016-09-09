@@ -1,11 +1,11 @@
 package ConTemp;
 
 import java.util.Scanner;
-// test git
+
       public class Main {
 
             public static void main(String[] args) {
-34
+
                 double temperature, celsius;
 
                 Scanner sc = new Scanner(System.in);
